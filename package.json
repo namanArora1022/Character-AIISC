@@ -1,0 +1,26 @@
+{
+  "name": "character-aiisc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanArora1022/Character-AIISC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namanArora1022/Character-AIISC/issues"
+  },
+  "homepage": "https://github.com/namanArora1022/Character-AIISC#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.8",
+    "typescript": "^4.2.4"
+  }
+}
